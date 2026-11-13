@@ -1,9 +1,12 @@
 # UTS_Algoritma_Sahril
 
-Nama  : Sahril Gunawan
-NIM   : C2583207047
-Matkul  : Algoritma
+Nama            : Sahril Gunawan
+NIM             : C2583207047
+Kelas           : PTI3A
+Matkul          : Algoritma
 Dosen Pengampu  : Taofik Muhammad, M.Kom
+
+
 <img width="1302" height="1017" alt="Screenshot 2026-11-13 210011" src="https://github.com/user-attachments/assets/127839ad-3845-43ec-8fd5-647ed2808e6a" />
 <img width="1305" height="1017" alt="Screenshot 2026-11-13 210000" src="https://github.com/user-attachments/assets/b2153f02-034e-48f4-a528-7227f3349f36" />
 <img width="1302" height="1015" alt="Screenshot 2026-11-13 205946" src="https://github.com/user-attachments/assets/6fce6820-b66f-4201-b144-3f22fb6252e0" />
