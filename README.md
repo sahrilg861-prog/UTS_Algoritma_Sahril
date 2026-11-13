@@ -3,7 +3,7 @@
 Nama            : Sahril Gunawan
 NIM             : C2583207047
 Kelas           : PTI3A
-Matkul          : Algoritma
+Mata Kuliah     : Algoritma dan Pemrograman Lanjutan
 Dosen Pengampu  : Taofik Muhammad, M.Kom
 
 
